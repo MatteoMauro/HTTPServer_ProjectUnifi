@@ -1,0 +1,5 @@
+GET /index.html HTTP/1.0
+Host: www.miosito.it
+Connection: close
+Content-Length: 0
+

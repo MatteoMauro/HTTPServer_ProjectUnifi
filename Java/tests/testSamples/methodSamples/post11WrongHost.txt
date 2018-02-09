@@ -1,0 +1,6 @@
+POST /index.html HTTP/1.1
+Host: www.nope.it
+Connection: close
+Content-Length: 10
+
+SAY PEACE!

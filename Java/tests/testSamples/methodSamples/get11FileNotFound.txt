@@ -1,0 +1,4 @@
+GET /nope.html HTTP/1.1
+Host: www.miosito.it
+Connection: close
+
