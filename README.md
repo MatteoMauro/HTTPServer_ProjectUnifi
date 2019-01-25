@@ -1,6 +1,6 @@
 # HTTP Server Java with client Python ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
-This is my University project with the objective of creating a simple client - server chat. I used Java as a server system and Python as a client system.
+University project simulating an HTTP server 1.0 and 1.1
 
 ## Requirements
 
